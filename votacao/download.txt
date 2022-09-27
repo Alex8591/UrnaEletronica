@@ -1,0 +1,1 @@
+[{"etapa":"VEREADOR","voto":"branco"},{"etapa":"PREFEITO","voto":"branco"}]
