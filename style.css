@@ -185,6 +185,12 @@ body {
 
 
 @media screen and (min-width:320px) and (max-width:768px) {
+    .urna {
+        height: 266px;
+    }
+    .tela {
+        height: 263px;
+    }
     body {
         justify-content: initial;
     }
